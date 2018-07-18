@@ -10,6 +10,7 @@ Kademlia Record Store JavaScript Implementation
 
 # BEWARE BEWARE BEWARE
 
+TODO: add a reason for deprecation. What has it been replaced by?
 This module is a work in progress! So beware of dragons! 🐲 🐉
 
 During this process, you can check more about the state of this project on:
